@@ -1,0 +1,11 @@
+EmpId,fullName,Dept,Age,Salary($),JoinDate,Performance,Remote?
+101,  Alice Johnson  ,IT,29,$5500.50,12-04-2021,87,Yes
+102,MICHEAL smith,hr,thirty-five,4800,2020.11.01,73,No
+103,sarah lee,Mktng,26,4200.75,"Jan 18, 2022",90,Y
+104,David-Kim,IT,31,NaN,2019/9/25,65,N
+105,,Customer Care,42,6100,07/05/18,82,yes
+106,john brown,marketing,27,"4,300",2021-10-14,75,no
+107,Emma Wilson,Finance,33,5800,2019/12/01,88,Y
+108,TOM  davis,,30,5000,2020-03-22,,Yes
+109,Jane Miller,HR,,4700.0,"May 10th, 2021",79%,
+110,Chris taylor,marketing,28,4400,2022-02-05,91,True
