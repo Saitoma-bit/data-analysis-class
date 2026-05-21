@@ -1,0 +1,10 @@
+Employment ID,Full Name,Department,Age,Salary,Join Date,Performance,Remote,manager,department_budget,office_location,department_avg_salary
+101,Alice Johnson,IT,29.0,5500.5,2021-04-12,87.0,Yes,Tom Hanks,200000,Lagos,5150.25
+102,Micheal Smith,HR,35.0,4800.0,2020-01-11,73.0,No,Susan Lee,150000,Abuja,4750.0
+103,Sarah Lee,Marketing,26.0,4200.75,2022-01-18,90.0,Yes,Mark Chan,180000,Ibadan,4475.1875
+104,David Kim,IT,31.0,4800.0,2019-09-25,65.0,No,Tom Hanks,200000,Lagos,5150.25
+106,John Brown,Marketing,27.0,4300.0,2021-10-14,75.0,No,Mark Chan,180000,Ibadan,4475.1875
+107,Emma Wilson,Finance,33.0,5800.0,2019-01-12,88.0,Yes,Robert Miles,250000,Port Harcourt,5800.0
+108,Tom Davis,Marketing,30.0,5000.0,2020-03-22,82.0,Yes,Mark Chan,180000,Ibadan,4475.1875
+109,Jane Miller,HR,30.0,4700.0,2021-05-10,79.0,Yes,Susan Lee,150000,Abuja,4750.0
+110,Chris Taylor,Marketing,28.0,4400.0,2022-05-02,91.0,Yes,Mark Chan,180000,Ibadan,4475.1875
